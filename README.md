@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em Tecnologia da Informação e Comunicacão no <a href="http://www.faeterj-petropolis.edu.br/site/">FAETERJ</a>.
 - 🎓 &nbsp; Pós-Graduado em Engenharia da Qualidade de Software no <a href="https://www.ead.senac.br/pos-graduacao/">SENAC</a>.
-- 💼 &nbsp; Trabalhando como Coordenador e Desenvolvedor Front-End Sênior na <a href="https://destitech.com.br/">Destitech</a>
+- 💼 &nbsp; Trabalhando como Coordenador e Desenvolvedor Full-Stack na <a href="https://destitech.com.br/">Destitech</a>
 - 🌱 &nbsp; Aprendendo mais sobre React.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
